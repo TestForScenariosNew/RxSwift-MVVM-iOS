@@ -1,4 +1,4 @@
-# MVVM with RxSwift1
+# MVVM with RxSwift
 
 RxSwiftMVVM is an sample iOS App written in RxSwift using the MVVM architecture.  
 
